@@ -1,1 +1,3 @@
-console.log("here!");
+import board from "./GenerateBoard";
+
+console.log(board);
